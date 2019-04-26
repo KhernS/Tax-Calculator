@@ -79,7 +79,7 @@ public class Main {
 		System.out.println("Thank You," + name);
 	     }
 	    
-	     else if(Character.isDigit(c)) {
+	     else if(Character.isDigit(c)) {	
 	    	 System.out.println("It is a number.");
 	     }
 	    
